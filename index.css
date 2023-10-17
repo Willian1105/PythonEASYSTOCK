@@ -1,0 +1,20 @@
+div {
+    text-align: center;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+    border-radius: 70%;
+    border: 5px solid rgb(0, 155, 0);
+}
+
+.center {
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(0, 155, 0);
+
+}
+
+.Acessar {
+    text-align: center;
+}
